@@ -2,6 +2,13 @@
 
 Reaper console plugin to control reaper via a cli and to interface with my AI projects.
 
+### New Theme
+ - Super clean - inspired by logic but better. Maybe screenshot some logic graphics.
+
+### New console plugin
+ - Can it all be done in lua???
+ - Dock to the side
+
 ### Navigation commands
  - tn <preset> (new track)
  - td (delete track)
@@ -10,4 +17,3 @@ Reaper console plugin to control reaper via a cli and to interface with my AI pr
 
 ### AI Interface
  - Window for generative track scripting, each time you run, generates a new project, can generate arbitrary length also
- - 
